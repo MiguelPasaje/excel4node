@@ -1,0 +1,13 @@
+# Dependencias
+node_modules/
+
+# Archivos de compilación
+*.log
+*.xlsx
+
+# Archivos de configuración
+.env
+
+# Dependiendo del editor o IDE que uses, puedes agregar sus archivos y carpetas generadas
+# Por ejemplo, si usas Visual Studio Code:
+.vscode/
